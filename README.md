@@ -195,13 +195,16 @@
    - ``pip install pre-commit``
    - ``pre-commit install``
    - ``pre-commit run --all-files``
+     
 
+---
    - Документация по линтерам:
    - Pylint https://pylint.pycqa.org
    - Pydocstyle https://docs.astral.sh/ruff/rules/#pydocstyle-d
    - Flake8 https://flake8.pycqa.org/en/latest/index.html
    - Mypy https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#variables 
-     
+---
+
 7. **Пришлите скриншот вашего терминала**
    - Сделайте полный скриншот вашего терминала на весь экран и пришлите в [чат](https://t.me/c/1937296927/765) пример скриншота
 
