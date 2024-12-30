@@ -183,7 +183,7 @@
 - ``cursor .``
 
 5. **Переключите ветки**
-   - (опционально) переключите ветку в GitHub Desktop, вы можете вообще удалить github desktop и [отправлять коммиты через курсор](https://youtu.be/Si9MfV8uJ-0?si=u-VwMWhK-BNtJVuf&t=382), как вам удобно.
+   - переключите ветку в GitHub Desktop
  <img src="https://github.com/user-attachments/assets/82f6acc8-3e4f-4abd-bc9b-0514a47056f4" alt="Example" width="700px">
 
 5.1 **Откройте курсор в github desktop и переключите в нем ветки**
