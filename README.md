@@ -100,18 +100,23 @@
       - ms-pyright.pyright
       - congyiwu.vscode-jupytext
       - streetsidesoftware.code-spell-checker-russian
-      -  Активация русского языка
-      
+        
+---
+
+      Активация русского языка
       Commands (use F1 or View -> Command Palette):
       
           Enable Russian Spell Checker Dictionary
           Enable Russian Spell Checker Dictionary in Workspace
-      -  Добавить слово в словарь => наводим на слово и нажимаем ctrl+. потом выбираем add to user settings
-      - Настройте [курсор(vscode на видео) к работе](https://www.youtube.com/watch?v=Si9MfV8uJ-0)
-      - Кнопка "vs code settings" ,для wrap и т.д. <img src="https://github.com/user-attachments/assets/ba500260-887f-40de-80b3-949ba02ceb31" alt="Example" width="700px">
-
-      - **Посмотрите [возможности курсора](https://www.youtube.com/watch?v=hjBCRVYE1as&feature=youtu.be)**
+      Добавить слово в словарь => наводим на слово и нажимаем ctrl+. потом выбираем add to user settings
+      
 ---
+
+  - Настройте [курсор(vscode на видео) к работе](https://www.youtube.com/watch?v=Si9MfV8uJ-0)
+  - Кнопка "vs code settings" ,для wrap и т.д. <img src="https://github.com/user-attachments/assets/ba500260-887f-40de-80b3-949ba02ceb31" alt="Example" width="700px">
+
+  - **Посмотрите [возможности курсора](https://www.youtube.com/watch?v=hjBCRVYE1as&feature=youtu.be)**
+
 
 3. **Python (CPython)**
    - Скачайте с [CPython](https://github.com/python/cpython).
