@@ -264,7 +264,7 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
    - https://github.com/settings/profile (**Include private contributions on my profile**)
   <img src="https://github.com/user-attachments/assets/63342476-1fe6-4314-bf3e-900bd0a74ada" alt="Example" width="300px">
   
-18. **Делайте ревью кода(опционально)**
+18. **Делайте ревью кода(возьмите на заметку)**
    - проверяйте [наличие запросов на ревью](https://github.com/notifications?query=reason%3Areview-requested)
    - Чем быстрее вы научитесь делать ревью, тем быстрее вы станете ПРОФЕССИОНАЛОМ
        
