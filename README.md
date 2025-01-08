@@ -183,7 +183,7 @@
 - ``cursor .``
 
 5. **Переключите ветки**
-   - переключите ветку в GitHub Desktop
+   - переключите ветку в GitHub Desktop, выберите ветку с ВАШЕМ логином
  <img src="https://github.com/user-attachments/assets/82f6acc8-3e4f-4abd-bc9b-0514a47056f4" alt="Example" width="700px">
 
 5.1 **Откройте курсор в github desktop и переключите в нем ветки**
