@@ -32,7 +32,6 @@
    - Нажмите "Sign up" и следуйте инструкциям для создания аккаунта.
    - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/3602), в посте добавьте  @ВашЮзерНеймТелеграм хэштег #githubaccount
    - Настройте Github:
-   - подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team
    - оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
    - выберите шаблон https://github.com/abhisheknaiidu/awesome-github-profile-readme
    - Повторите 5 пунктов
@@ -161,6 +160,7 @@
      - Ссылкой на ваш профиль GitHub
      - в посте добавьте хэштеги #githubaccount #senatorovteam
 
+   - подпишитесь на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team
 ---
 
 1. **Создайте новую ветку**
