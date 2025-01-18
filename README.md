@@ -30,7 +30,7 @@
 1. **GitHub**
    - Перейдите на [GitHub](https://github.com/) и зарегестрируйся согласно [инструкции](https://htmlacademy.ru/blog/git/github-account).
    - Нажмите "Sign up" и следуйте инструкциям для создания аккаунта.
-   - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/3602), в посте добавьте  @ВашЮзерНеймТелеграм хэштег #githubaccount
+   - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/765), в посте добавьте  @ВашЮзерНеймТелеграм хэштег #githubaccount
    - Настройте Github:
    - оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
    - выберите шаблон https://github.com/abhisheknaiidu/awesome-github-profile-readme
@@ -155,7 +155,7 @@
      
      <img width="700" alt="Screenshot 2024-12-14 at 12 49 34 PM" src="https://github.com/user-attachments/assets/fd87339d-948c-4e03-aed3-ceea298aca50" />
 
-   - Если вас нет в списке [команды Senatorov](https://github.com/orgs/SENATOROVAI/teams/senatorov-team), отправьте сообщение в чат [здесь](https://t.me/c/1937296927/3602) с:
+   - Если вас нет в списке [команды Senatorov](https://github.com/orgs/SENATOROVAI/teams/senatorov-team), отправьте сообщение в чат [здесь](https://t.me/c/1937296927/765) с:
      - Вашим логином в Telegram
      - Ссылкой на ваш профиль GitHub
      - в посте добавьте хэштеги #githubaccount #senatorovteam
