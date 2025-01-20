@@ -137,7 +137,7 @@
 
 - **Джамборд для учёбы**
   - Посмотрите видеоинструкцию: [YouTube](https://youtu.be/8pwKgbMyfbo)
-  - Используйте [Canva](https://www.canva.com/) для создания и обмена джамбордами.
+  - ЕСЛИ ВЫ НЕ МОЖЕТЕ ЗАЙТИ НА САЙТ https://www.canva.com/, выполните [инструкцию](https://github.com/SENATOROVAI/docs/blob/main/docs/welcome/canva.md)
   - Скиньте мне в личку ссылку на ваш джамборд.
 
 ---
