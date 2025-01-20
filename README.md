@@ -52,7 +52,7 @@
 
    <img src="https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf" alt="Example" width="700px">
 
-   - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте @ВашЮзерНеймТелеграм хэштег #kaggleaccount 
+   - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/765). в посте добавьте @ВашЮзерНеймТелеграм хэштег #kaggleaccount 
    - [Загрузка ноутбуков на Kaggle](https://youtu.be/Kn9ZcXlCApw)
 
 ---
