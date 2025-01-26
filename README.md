@@ -71,8 +71,8 @@
 
 ---
 
-2. **Cursor**
-   - Скачайте с [Cursor](https://github.com/getcursor/cursor).
+2. **Cursor и VS CODE**
+   - Скачайте с [Cursor](https://github.com/getcursor/cursor). и [VS code](https://github.com/microsoft/vscode)
    - Установите согласно предоставленным инструкциям.
    -  <img src="https://github.com/user-attachments/assets/39db71c4-28cc-47d6-bb1b-13809d591cc5" alt="Example" width="700px">
    - (установить плагины):
