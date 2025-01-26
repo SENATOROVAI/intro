@@ -30,13 +30,12 @@
 1. **GitHub**
    - Перейдите на [GitHub](https://github.com/) и зарегестрируйся согласно [инструкции](https://htmlacademy.ru/blog/git/github-account).
    - Нажмите "Sign up" и следуйте инструкциям для создания аккаунта.
-   - После регистрации поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/765), в посте добавьте  @ВашЮзерНеймТелеграм хэштег #githubaccount
    - Настройте Github:
    - оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
    - выберите шаблон https://github.com/abhisheknaiidu/awesome-github-profile-readme
    - Повторите 5 пунктов
    - <img src="https://github.com/user-attachments/assets/2adcaef4-9285-4649-a9ce-1fc28781f926" alt="Example" width="700px">
-
+   - поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/765), в посте добавьте  @ВашЮзерНеймТелеграм хэштег #githubaccount
 ---
 
 2. **Kaggle**
