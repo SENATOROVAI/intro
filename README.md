@@ -153,12 +153,13 @@
    - Примите приглашение https://github.com/settings/organizations
      
      <img width="700" alt="Screenshot 2024-12-14 at 12 49 34 PM" src="https://github.com/user-attachments/assets/fd87339d-948c-4e03-aed3-ceea298aca50" />
-
+   - Найдите [себя в списке ](https://github.com/orgs/SENATOROVAI/people) и сделайте [Public](https://github.com/user-attachments/assets/dfb0edaa-dfeb-4d14-b459-c5648e69bc8e)
+     
    - Если вас нет в списке [команды Senatorov](https://github.com/orgs/SENATOROVAI/teams/senatorov-team), отправьте сообщение в чат [здесь](https://t.me/c/1937296927/765) с:
      - Вашим логином в Telegram
      - Ссылкой на ваш профиль GitHub
      - в посте добавьте хэштеги #githubaccount #senatorovteam
-
+  
    - подпишитесь на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team
 ---
 
