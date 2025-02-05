@@ -65,7 +65,7 @@
 
 1. **GitHub Desktop**
    - Скачайте с [GitHub Desktop](https://github.com/desktop/desktop).
-   - Следуйте инструкциям по установке для вашей операционной системы.
+   - [Инструкция](https://htmlacademy.ru/blog/git/github-desktop) 
 
 ---
 
