@@ -33,8 +33,7 @@
    - Настройте Github:
    - оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
    - выберите шаблон https://github.com/abhisheknaiidu/awesome-github-profile-readme
-   - Повторите 5 пунктов
-   - <img src="https://github.com/user-attachments/assets/2adcaef4-9285-4649-a9ce-1fc28781f926" alt="Example" width="700px">
+   - Повторите 5 пунктов [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/2adcaef4-9285-4649-a9ce-1fc28781f926)
    - поделитесь ссылкой на ваш профиль GitHub в чате: [Telegram Chat](https://t.me/c/1937296927/765), в посте добавьте  @ВашЮзерНеймТелеграм хэштег #githubaccount
 ---
 
@@ -47,9 +46,7 @@
 
    - Получите статус контрибьютора на Kaggle: [Видео инструкция](https://youtube.com/shorts/A_EtBko0T3U?feature=shared)
    - Подпишитесь на коллег https://t.me/c/1937296927/832/21039
-   - Заполните профиль
-
-   <img src="https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf" alt="Example" width="700px">
+   - Заполните профиль [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf)
 
    - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/765). в посте добавьте @ВашЮзерНеймТелеграм хэштег #kaggleaccount 
    - [Загрузка ноутбуков на Kaggle](https://youtu.be/Kn9ZcXlCApw)
@@ -73,12 +70,9 @@
 
 2. **Cursor и VS CODE**
    - Скачайте с [Cursor](https://github.com/getcursor/cursor). и [VS code](https://github.com/microsoft/vscode)
-   - Установите согласно предоставленным инструкциям.
-   -  <img src="https://github.com/user-attachments/assets/39db71c4-28cc-47d6-bb1b-13809d591cc5" alt="Example" width="700px">
+   -  [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/39db71c4-28cc-47d6-bb1b-13809d591cc5) 
    - (установить плагины):
-   -  <img src="https://github.com/user-attachments/assets/679c88db-af1a-45de-8caa-0e289701ee1d" alt="Example" width="700px">
-
-
+   - [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/679c88db-af1a-45de-8caa-0e289701ee1d)
       - ms-python.pylint
       - ms-python.flake8
       - ms-python.mypy-type-checker
@@ -111,7 +105,7 @@
 ---
 
   - Настройте [курсор(vscode на видео) к работе](https://www.youtube.com/watch?v=Si9MfV8uJ-0)
-  - Кнопка "vs code settings" ,для wrap и т.д. <img src="https://github.com/user-attachments/assets/ba500260-887f-40de-80b3-949ba02ceb31" alt="Example" width="700px">
+  - Кнопка "vs code settings" ,для wrap и т.д. [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/ba500260-887f-40de-80b3-949ba02ceb31) 
 
   - **Посмотрите [возможности курсора](https://www.youtube.com/watch?v=hjBCRVYE1as&feature=youtu.be)**
 
@@ -145,28 +139,25 @@
 
 1. **Поставьте звезду репозиторию**
    - Убедитесь, что вы поставили звезду репозиторию, https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
-![image](https://github.com/user-attachments/assets/aa4e7946-d65f-4f5f-91a2-84a1dc3bdcb4)
+   - [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/aa4e7946-d65f-4f5f-91a2-84a1dc3bdcb4) 
 
 ---
 
 2. **Присоединитесь к команде**
    - Примите приглашение https://github.com/settings/organizations
-     
-     <img width="700" alt="Screenshot 2024-12-14 at 12 49 34 PM" src="https://github.com/user-attachments/assets/fd87339d-948c-4e03-aed3-ceea298aca50" />
+     [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/fd87339d-948c-4e03-aed3-ceea298aca50)
+
    - Найдите [себя в списке ](https://github.com/orgs/SENATOROVAI/people) и сделайте [Public](https://github.com/user-attachments/assets/dfb0edaa-dfeb-4d14-b459-c5648e69bc8e)
    - подпишитесь на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team
 ---
 
 1. **Создайте новую ветку**
-   - Перейдите на [страницу веток](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches) и создайте новую ветку, назвав её вашим [логином GitHub](https://github.com/settings/admin) без СОБАЧКИ @.
-  
-![image](https://github.com/user-attachments/assets/99f05e36-f698-486a-8f95-50225043fb22)
-   
-- Пример ![image](https://github.com/user-attachments/assets/09181e62-84f8-4992-86a4-13394c7a014a)
+   - Перейдите на [страницу веток](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches) и создайте новую ветку, назвав её вашим [логином GitHub](https://github.com/settings/admin) без СОБАЧКИ @. [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/99f05e36-f698-486a-8f95-50225043fb22) 
+- Пример где создать [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/09181e62-84f8-4992-86a4-13394c7a014a) 
 4. **Клонируйте репозиторий**
    - Скачайте репозиторий на ваш локальный компьютер, нажимаем code->open with Github Desktop
+[👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/c3cda1c0-98ce-4c29-8ed9-4b3ecee34c06)
 
-<img width="300px" alt="Screenshot 2024-11-27 at 4 26 31 AM" src="https://github.com/user-attachments/assets/c3cda1c0-98ce-4c29-8ed9-4b3ecee34c06">
   
 
 4.1 **(опционально)Клонирование конкретной ветки**
