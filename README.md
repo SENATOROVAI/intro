@@ -119,7 +119,7 @@
 
 4. **Git for Windows**
    - Скачайте с [Git for Windows](https://github.com/git-for-windows/git).
-   - Установите, следуя инструкциям по настройке.
+   - ОБЯЗАТЕЛЬНО [ПРОЧИТАЙТЕ ИНСТРУКЦИЮ](https://htmlacademy.ru/blog/git/version-control-system)
 
 ---
 
