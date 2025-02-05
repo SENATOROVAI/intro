@@ -138,7 +138,7 @@
 ### Скачайте репозиторий на свой компьютер.
 
 1. **Поставьте звезду репозиторию**
-   - Убедитесь, что вы поставили звезду репозиторию, https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
+   - Убедитесь, что вы поставили звезду [репозиторию](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV)
    - [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/aa4e7946-d65f-4f5f-91a2-84a1dc3bdcb4) 
 
 ---
