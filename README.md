@@ -242,11 +242,12 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
    - помогайте другим коллегам решать их тикеты и [получайте бонусы](https://t.me/c/1937296927/25305/25306), ищите хэштег #open
    [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537)
    
-### 16. **Обязательно сделайте все задания**
-   - => [Задания](https://github.com/SENATOROVAI/docs/issues/23)
-17. **Включите отображение активности**
+16. **Включите отображение активности**
    - https://github.com/settings/profile (**Include private contributions on my profile**)
   [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/63342476-1fe6-4314-bf3e-900bd0a74ada)
+
+### 17. **Обязательно сделайте все задания**
+   - => [Задания](https://github.com/SENATOROVAI/docs/issues/23)
   
 18. **Делайте ревью кода(возьмите на заметку)**
    - проверяйте [наличие запросов на ревью](https://github.com/notifications?query=reason%3Areview-requested)
