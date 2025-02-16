@@ -248,7 +248,7 @@ https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV
   [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/63342476-1fe6-4314-bf3e-900bd0a74ada)
 
 ### 17. **Обязательно сделайте все задания**
-   - => [Задания](https://github.com/SENATOROVAI/docs/issues/23)
+   - => [Задания](https://github.com/SENATOROVAI/intro-cs/issues/6)
   
 18. **Делайте ревью кода(возьмите на заметку)**
    - проверяйте [наличие запросов на ревью](https://github.com/notifications?query=reason%3Areview-requested)
