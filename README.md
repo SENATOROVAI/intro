@@ -48,7 +48,6 @@
    - Используйте этот номер для Kaggle: [365sms.ru](https://365sms.ru/)
 
    - Получите статус контрибьютора на Kaggle: [Видео инструкция](https://youtube.com/shorts/A_EtBko0T3U?feature=shared)
-   - Подпишитесь на коллег https://t.me/c/1937296927/832/21039
    - Заполните профиль [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf)
 
    - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/765). в посте добавьте @ВашЮзерНеймТелеграм хэштег #kaggleaccount 
@@ -152,7 +151,7 @@
    - Пошлите [запрос](https://github.com/orgs/SENATOROVAI/teams/senatorov-intro) на вступление в [команду](https://github.com/user-attachments/assets/a40cd861-6a91-4301-b88d-2accaa3d6fc3) 
    - Напишите в чат [flood](https://t.me/c/1937296927/765) "Join the Senatorov-INTRO #introteam" 
    - подпишитесь на [коллег в github](https://github.com/orgs/SENATOROVAI/teams/senatorov-main)
-   - подпишитесь на [коллег в kaggle](https://github.com/orgs/SENATOROVAI/teams/senatorov-main)  
+   - подпишитесь на [коллег в kaggle](https://t.me/c/1937296927/765/31986)  
 ---
 
 1. **Создайте новую ветку**
