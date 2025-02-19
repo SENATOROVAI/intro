@@ -150,8 +150,7 @@
    - Найдите [себя в списке ](https://github.com/orgs/SENATOROVAI/people) и сделайте [Public](https://github.com/user-attachments/assets/dfb0edaa-dfeb-4d14-b459-c5648e69bc8e)
    - Пошлите [запрос](https://github.com/orgs/SENATOROVAI/teams/senatorov-intro) на вступление в [команду](https://github.com/user-attachments/assets/a40cd861-6a91-4301-b88d-2accaa3d6fc3) 
    - Напишите в чат [flood](https://t.me/c/1937296927/765) "Join the Senatorov-INTRO #introteam" 
-   - подпишитесь на [коллег в github](https://github.com/orgs/SENATOROVAI/teams/senatorov-main)
-   - подпишитесь на [коллег в kaggle](https://t.me/c/1937296927/765/31986)  
+   - подпишитесь на [коллег в github+кэггл](https://github.com/orgs/SENATOROVAI/teams/senatorov-main)
 ---
 
 1. **Создайте новую ветку**
