@@ -97,12 +97,18 @@
         
 ---
 
-      Активация русского языка
-      Commands (use F1 or View -> Command Palette):
-      
-          Enable Russian Spell Checker Dictionary
-          Enable Russian Spell Checker Dictionary in Workspace
-      Добавить слово в словарь => наводим на слово и нажимаем ctrl+. потом выбираем add to user settings
+  Активация русского языка в VS CODE и cursor
+
+ **Нажмите F1** или **View -> Command** Palette: 
+ [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/30e51ad8-8fd2-4470-a56e-20ce864f8007)
+```
+     введите команды по очередно, после каждой нажмите enter
+     Enable Russian Spell Checker Dictionary
+     Enable Russian Spell Checker Dictionary in Workspace
+   
+  Добавить слово в словарь => наводим на слово и нажимаем ctrl+. потом выбираем add to user settings
+```
+
       
 ---
 
