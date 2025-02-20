@@ -202,7 +202,8 @@
 [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f)
 
 - заходим в свой коммит:
-https://github.com/ВАШ_ЛОГИН/Data-Science-For-Beginners-from-scratch-SENATOROV/commits/, замените ВАШ_ЛОГИН на ваш логин :) [найти можно тут](https://github.com/settings/admin), [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/7986dace-42ae-4507-a3dc-79ab73402571), потом копируете ссылку на последний коммит
+https://github.com/ВАШ_ЛОГИН/Data-Science-For-Beginners-from-scratch-SENATOROV/commits/, замените ВАШ_ЛОГИН на ваш логин :)
+[найти можно тут](https://github.com/settings/admin), [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/7986dace-42ae-4507-a3dc-79ab73402571), потом копируете ссылку на последний коммит
 [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/484781f4-d994-49d1-a9da-b256f5589847)
 - присылаем ссылку на коммит сюда https://t.me/c/1937296927/765
 
