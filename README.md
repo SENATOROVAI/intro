@@ -41,7 +41,7 @@
 
 2. **Kaggle**
    - [Что такое КЭГГЛ?](https://youtu.be/wL9zQczbHRs)
-   - [Загрузка ноутбуков на Kaggle](https://youtu.be/Kn9ZcXlCApw)
+   - [Загрузка ноутбуков на Kaggle(Только для ознакомления)](https://youtu.be/Kn9ZcXlCApw)
    - Посетите [Kaggle](https://www.kaggle.com/).
    - Нажмите "Sign up" и создайте аккаунт.
    - Подтвердите номер телефона на Kaggle (АКТУАЛЬНО ДЛЯ РФ) [Видео инструкция](https://youtu.be/fcBOlOl__T0)
