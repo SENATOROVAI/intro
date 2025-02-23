@@ -91,7 +91,6 @@
       - ms-vsliveshare.vsliveshare
       - njqdev.vscode-python-typehint
       - EricSia.pythonsnippets3
-      - ms-pyright.pyright
       - congyiwu.vscode-jupytext
       - streetsidesoftware.code-spell-checker-russian
         
