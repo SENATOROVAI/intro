@@ -136,7 +136,7 @@
 
 - **Джамборд для учёбы**
   - Посмотрите видеоинструкцию: [YouTube](https://youtu.be/8pwKgbMyfbo)
-  - ЕСЛИ ВЫ НЕ МОЖЕТЕ ЗАЙТИ НА САЙТ https://www.canva.com/, выполните [инструкцию](https://github.com/SENATOROVAI/intro-cs/issues/11)
+  - ЕСЛИ ВЫ НЕ МОЖЕТЕ ЗАЙТИ НА САЙТ https://www.canva.com/, примите [приглашение](https://github.com/settings/organizations) и выполните [инструкцию](https://github.com/SENATOROVAI/intro-cs/issues/11)
   - Скиньте мне в личку ссылку на ваш джамборд.
 
 ---
