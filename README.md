@@ -231,7 +231,8 @@ https://github.com/ВАШ_ЛОГИН/Data-Science-For-Beginners-from-scratch-SEN
    
 16. **Включите отображение активности**
    - https://github.com/settings/profile (**Include private contributions on my profile**)
-  [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/63342476-1fe6-4314-bf3e-900bd0a74ada)
+  [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/bb36966b-2c82-435d-9d07-8fb6758aecfe)
+
 
 17. **Занятия в группе**
     - Ответь на [опрос](https://t.me/c/1937296927/32215/32283)
