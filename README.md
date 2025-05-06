@@ -150,7 +150,7 @@
 ---
 
 2. **Присоединитесь к команде**
-   - Примите [приглашение](https://github.com/settings/organizations), [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/fd87339d-948c-4e03-aed3-ceea298aca50)
+   - Примите [приглашение](https://github.com/settings/organizations), кнопка "accept"
    - Найдите [себя в списке ](https://github.com/orgs/SENATOROVAI/people) и сделайте [Public](https://github.com/user-attachments/assets/dfb0edaa-dfeb-4d14-b459-c5648e69bc8e)
    - подпишитесь на [коллег в github+кэггл](https://t.me/c/1937296927/765/31988)
 ---
