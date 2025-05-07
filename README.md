@@ -40,14 +40,7 @@
 ---
 
 2. **Kaggle**
-   - [Что такое КЭГГЛ?](https://youtu.be/wL9zQczbHRs)
- 
-   - Посетите [Kaggle](https://www.kaggle.com/).
-   - Нажмите "Sign up" и создайте аккаунт.
-   - Подтвердите номер телефона на Kaggle (АКТУАЛЬНО ДЛЯ РФ) [Видео инструкция](https://youtu.be/fcBOlOl__T0)
-   - Используйте этот номер для Kaggle: [365sms.ru](https://365sms.ru/)
-
-   - Получите статус контрибьютора на Kaggle: [Видео инструкция](https://youtube.com/shorts/A_EtBko0T3U?feature=shared)
+   - пройдите курс https://stepik.org/course/241210/promo
    - Заполните профиль [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf)
 
    - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/765). в посте добавьте @ВашЮзерНеймТелеграм хэштег #kaggleaccount 
@@ -71,6 +64,7 @@
 ---
 
 2. **Cursor и VS CODE**
+   - пройдите курс https://stepik.org/course/241256/promo
    - Скачайте с [Cursor](https://github.com/getcursor/cursor). и [VS code](https://github.com/microsoft/vscode)
    -  [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/39db71c4-28cc-47d6-bb1b-13809d591cc5) 
    - (установить плагины):
