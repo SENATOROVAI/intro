@@ -145,7 +145,7 @@
 2. **Присоединитесь к команде**
    - Примите [приглашение](https://github.com/settings/organizations), кнопка "accept"
    - Найдите [себя в списке ](https://github.com/orgs/SENATOROVAI/people) и сделайте [Public](https://github.com/user-attachments/assets/dfb0edaa-dfeb-4d14-b459-c5648e69bc8e)
-   - подпишитесь на [коллег в github+кэггл](https://t.me/c/1937296927/765/31988)
+   - подпишитесь на [коллег в github+кэггл](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/291)
 ---
 
 1. **Сделайте Fork**
