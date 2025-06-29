@@ -147,6 +147,9 @@
    - Найдите [себя в списке ](https://github.com/orgs/SENATOROVAI/people) и сделайте [Public](https://github.com/user-attachments/assets/dfb0edaa-dfeb-4d14-b459-c5648e69bc8e)
    - подпишитесь на [коллег в github+кэггл](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/291)
 ---
+### Отчётность 
+  - Регулярно сдавайте отчётность согласно инструкции https://t.me/c/1937296927/26659/36611
+---
 
 1. **Сделайте Fork**
 [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/b5fc4c7c-ff4f-48ff-908f-fa73232944dd)
