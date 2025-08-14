@@ -135,7 +135,7 @@
 - **Джамборд для учёбы**
   - Посмотрите видеоинструкцию: [YouTube](https://youtu.be/8pwKgbMyfbo)
   - ЕСЛИ ВЫ НЕ МОЖЕТЕ ЗАЙТИ НА САЙТ https://www.canva.com/, выполните 4 пункта:
-    - 1)примите [приглашение](https://github.com/settings/organizations) , 
+    - 1)примите [приглашение в организацию](https://github.com/settings/organizations) , 
     - 2)[подайте заявку на вступление](https://github.com/orgs/SENATOROVAI/teams/senatorov-canva), 
     - 3)отправьте хэштег #canva [в чат](https://t.me/c/1937296927/765)
     - 4)выполните [инструкцию](https://github.com/SENATOROVAI/canva/issues/1)
