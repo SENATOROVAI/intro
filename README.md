@@ -165,7 +165,8 @@
 [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/c3cda1c0-98ce-4c29-8ed9-4b3ecee34c06)
   
 5.1 **Откройте ваш репозиторий в github desktop**
- - [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/ff126dff-f663-4808-b99d-450493fd326a)
+ - выберите parent project [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/f7f11671-d2e3-459d-962a-b74393d124b9)
+ - откройте репу [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/ff126dff-f663-4808-b99d-450493fd326a)
 
 6. **Введите команды в терминал**
    - Откройте терминал и убедитесь что там написано **Documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV**
