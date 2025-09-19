@@ -246,7 +246,7 @@ https://github.com/ВАШ_ЛОГИН/Data-Science-For-Beginners-from-scratch-SEN
 20. Study baddy
   - В течении недели вы должны найти себе товарища по учёбе в нашей школе и отправить [сюда его логин](https://t.me/c/1937296927/32215) , поиск так же осуществляется в этом чате    
 ### 21. **Пройти курс по опенсорс**
-   - [курс](https://t.me/RuslanSenatorov/2430)
+   - запишитесь на [курс](https://t.me/RuslanSenatorov/2430) и скиньте ссылку на ваш аккаунт [в чат](https://t.me/c/1937296927/765)
   
 22. **Делайте ревью кода(возьмите на заметку)**
    - проверяйте [наличие запросов на ревью](https://github.com/notifications?query=reason%3Areview-requested)
