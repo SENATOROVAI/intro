@@ -246,11 +246,13 @@ https://github.com/ВАШ_ЛОГИН/Data-Science-For-Beginners-from-scratch-SEN
 20. Групповые созвоны
   - отправьте [в чат](https://t.me/c/1937296927/32215) хэштег #group_1 
   - укажите в [расписании](https://t.me/c/1937296927/32215/50061) дни, когда вы можете созваниваться с одногруппниками, в ячейку нужно писать логин TG
+  - в расписании указан староста, обращайтесь к нему по любым вопросам в чате школы
 
 ### 21. **Пройти курс по опенсорс**
    - запишитесь на [курс](https://t.me/RuslanSenatorov/2430)
    - скиньте ссылку на ваш аккаунт [в чат](https://t.me/c/1937296927/765)
-   - отправьте заявку в [команду](https://github.com/orgs/SENATOROVAI/teams/senatorov-intro)
+   - отправьте заявку в [команду](https://github.com/orgs/SENATOROVAI/teams/group_1)
+   - отправьте в чат хэштег #request_group_1
   
 22. **Делайте ревью кода(возьмите на заметку)**
    - проверяйте [наличие запросов на ревью](https://github.com/notifications?query=reason%3Areview-requested)
