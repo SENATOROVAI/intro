@@ -254,9 +254,9 @@ https://github.com/ВАШ_ЛОГИН/Data-Science-For-Beginners-from-scratch-SEN
 
 ### 20. **Пройти курс по опенсорс**
    - запишитесь на [курс](https://t.me/RuslanSenatorov/2430)
-   - скиньте ссылку на ваш аккаунт [в чат](https://t.me/c/1937296927/765)
+   - скиньте ссылку на ваш аккаунт [в чат](https://t.me/c/1937296927/54170)
    - отправьте заявку в [команду](https://github.com/orgs/SENATOROVAI/teams/group_1)
-   - отправьте в чат хэштег #request_group_1
+   - отправьте в [чат](https://t.me/c/1937296927/54170) хэштег #request_group_1
   
 21. **Делайте ревью кода(возьмите на заметку)**
    - проверяйте [наличие запросов на ревью](https://github.com/notifications?query=reason%3Areview-requested)
