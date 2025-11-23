@@ -1,6 +1,7 @@
 <img src="https://github.com/user-attachments/assets/fe349ddc-47df-40f7-80b9-5758c15373c7" width="700px"> 
 
 <h1>Добро пожаловать на стажировку в IT-организацию!</h1>
+[договор_стажировка_в организации.pdf](https://github.com/user-attachments/files/23699670/_._.pdf)
 
 Выполни инструкцию ниже, если возникнут трудности смело [пиши сюда](https://t.me/c/1937296927/2415) 
 
