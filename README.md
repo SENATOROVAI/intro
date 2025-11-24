@@ -1,6 +1,17 @@
-<img src="https://github.com/user-attachments/assets/fe349ddc-47df-40f7-80b9-5758c15373c7" width="700px"> 
+
 
 <h1>Добро пожаловать на стажировку в SENATOROVAI!</h1>
+<img src="https://github.com/user-attachments/assets/fe349ddc-47df-40f7-80b9-5758c15373c7" width="100%"> 
+
+# О нас:
+- Владелец организации, [Сенаторов Р.О.](https://github.com/ruslansenatorov), в [2019](https://github.com/user-attachments/assets/8acd7dc9-108e-4fc2-bb7b-0e1a3d777a92) году был принят на работу в [IT-компанию umisoft](https://github.com/Umisoft) , где работал в качестве младшего PHP-программиста с функциями дебага JS кода, на  OS Linux (Lubuntu)
+
+  <img width="400"  alt="изображение" src="https://github.com/user-attachments/assets/7cf6589e-25aa-49a3-827c-83b383903836" />
+
+- Через пару недель работы был выполнен пул-реквест, с улучшением [ядра кодовой базы организации ](https://github.com/Umisoft/demomarket-solution/pull/11)
+- Поработав там какое то время Сенаторов Р.О. уходит в другую организацию, где успешно улучшил накопленный опыт став старшим фулл-стек разработчиком и в 2022 образовалась организация SENATOROVAI, в которой были интегрированы все стандарты коммерческой разработки которые использовались в предыдущих компаниях, а так же[ улучшены линтеры](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/.pre-commit-config.yaml), [CI/CD](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/actions/runs/19616267761/workflow) и другие технические компоненты IT-инфраструктуры
+
+---
 
 Выполни инструкцию ниже, если возникнут трудности смело [пиши сюда](https://t.me/c/1937296927/2415) 
 
