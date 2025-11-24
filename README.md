@@ -10,6 +10,7 @@
 
 - Через пару недель работы был выполнен пул-реквест, с улучшением [ядра кодовой базы организации ](https://github.com/Umisoft/demomarket-solution/pull/11)
 - Поработав там какое то время Сенаторов Р.О. уходит в другую организацию, где успешно улучшил накопленный опыт став старшим фулл-стек разработчиком и в 2022 образовалась организация SENATOROVAI, в которой были интегрированы все стандарты коммерческой разработки которые использовались в предыдущих компаниях, а так же[ улучшены линтеры](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/blob/main/.pre-commit-config.yaml), [CI/CD](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/actions/runs/19616267761/workflow) и другие технические компоненты IT-инфраструктуры
+- Прочитайте обязательно [информацию про опыт и биографию Сенаторова Р.О.](https://t.me/RuslanSenatorov/2463?single)
 
 # Обязанности в SENATOROVAI:
 
