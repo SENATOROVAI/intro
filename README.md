@@ -85,9 +85,9 @@
 
 ### Договор о стажировке в SENATOROVAI
 - Скачайте и ознакомьте с договором о стажировке в SENATOROVAI: 
-    [договор PDF](https://github.com/user-attachments/files/23699670/_._.pdf),
-    [(Договор doc](https://github.com/user-attachments/files/23726151/1.doc)
-    [договор docx](https://github.com/user-attachments/files/23726152/1.docx)
+    - [договор PDF](https://github.com/user-attachments/files/23699670/_._.pdf)
+    - [договор doc](https://github.com/user-attachments/files/23726151/1.doc)
+    - [договор docx](https://github.com/user-attachments/files/23726152/1.docx)
 
 - Сообщите в [чат](https://t.me/c/1937296927/765), с какого числа вы готовы выйти на стажировку
 
