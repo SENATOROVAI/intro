@@ -357,7 +357,7 @@ B1 English for Developers (Beta) Certification  https://www.freecodecamp.org/lea
    - запишитесь на [курс](https://t.me/RuslanSenatorov/2430)
    - пройдите пару заданий и у вас на странице профиля появится [сертификат](https://stepik.org/cert/2825444), скиньте ссылку на ваш сертификат [в чат](https://t.me/c/1937296927/54170)
    - отправьте заявку в [команду](https://github.com/orgs/SENATOROVAI/teams/group_1)
-   - отправьте в [чат](https://t.me/c/1937296927/54170) хэштег #request_group_1
+   - отправьте в [чат](https://t.me/c/1937296927/54170) хэштег #request_group_1 и добавьте логин @arm_naruto
   
 22. **Делайте ревью кода(возьмите на заметку)**
    - проверяйте [наличие запросов на ревью](https://github.com/notifications?query=reason%3Areview-requested)
