@@ -416,7 +416,7 @@ https://github.com/ВАШ_ЛОГИН/Data-Science-For-Beginners-from-scratch-SEN
 ```
 
 ### 21. **Пройти курс по опенсорс**
-   - запишитесь на [курс](https://t.me/RuslanSenatorov/2430)
+   - запишитесь на [курс](https://stepik.org/a/193773/pay?promo=d1259688e0496337)
    - пройдите пару заданий и у вас на странице профиля появится [сертификат](https://stepik.org/cert/2825444), скиньте ссылку на ваш сертификат [в чат](https://t.me/c/1937296927/54170)
    - отправьте заявку в [команду](https://github.com/orgs/SENATOROVAI/teams/group_1)
    - отправьте в [чат](https://t.me/c/1937296927/54170) хэштег #request_group_1 и добавьте тег @arm_naruto
