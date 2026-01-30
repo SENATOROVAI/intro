@@ -16,7 +16,7 @@
 
 # На кого учатся в моей школе?
 
-<img width="1024" height="1536" alt="изображение" src="https://github.com/user-attachments/assets/b77a12ec-1214-4f5f-8648-ca02e818a557" />
+<img height="700" alt="изображение" src="https://github.com/user-attachments/assets/b77a12ec-1214-4f5f-8648-ca02e818a557" />
 
 **Почему оптимизатор моделей — профессия будущего**
 
