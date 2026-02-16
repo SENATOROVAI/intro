@@ -420,6 +420,7 @@ https://github.com/ВАШ_ЛОГИН/Data-Science-For-Beginners-from-scratch-SEN
    - пройдите пару заданий и у вас на странице профиля появится [сертификат](https://stepik.org/cert/2825444), скиньте ссылку на ваш сертификат [в чат](https://t.me/c/1937296927/54170)
    - отправьте заявку в [команду](https://github.com/orgs/SENATOROVAI/teams/group_1)
    - отправьте в [чат](https://t.me/c/1937296927/54170) хэштег #request_group_1 и добавьте тег @arm_naruto
+   - отправьте ссылку на ваш степик аккаунт в [этот чат](https://t.me/c/1937296927/85035)
   
 22. **Делайте ревью кода(возьмите на заметку)**
    - проверяйте [наличие запросов на ревью](https://github.com/notifications?query=reason%3Areview-requested)
