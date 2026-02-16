@@ -299,7 +299,7 @@
     - 2)[подайте заявку на вступление](https://github.com/orgs/SENATOROVAI/teams/senatorov-canva), 
     - 3)отправьте хэштег #canva [в чат](https://t.me/c/1937296927/765)
     - 4)выполните [инструкцию](https://github.com/SENATOROVAI/canva/issues/1)
-  - Скиньте мне в [личку](https://t.me/RuslanSenatorov?direct) ссылку на ваш джамборд. 
+  - Скиньте мне в [личку](https://t.me/SenatorovLive?direct) ссылку на ваш джамборд. 
 
 ---
 
