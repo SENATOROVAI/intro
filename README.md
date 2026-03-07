@@ -152,6 +152,7 @@
 
 2. **Kaggle**
    - [Только получить статус контрибьютор (КУРС ПРОХОДИТЬ СНАЧАЛА НЕ НАДО) ](https://stepik.org/lesson/1748408/step/1?unit=1772790)
+   - [Вступите в организацию](https://kaggle.com/organizations/senatorovai/invite/54c2da43ecd646fa95ca4b492ecc3e43)
    - Заполните профиль [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf)
 
 ---
