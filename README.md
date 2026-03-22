@@ -122,8 +122,10 @@
 
 ---
 
-Выполни инструкцию ниже, если возникнут трудности смело [пиши сюда](https://t.me/c/1937296927/2415) 
+Выполни инструкцию ниже
 
+# Нужна помощь?
+# => [Бесплатная консультация по инструкции](https://chat.lenzaos.com/auth?invitation=true&code=2b7VOb&domain=senatorovai&lang=ru&android=com.mailchat.clout&ios=1588741828)
 ---
 
 <h2>Оглавление</h2>
