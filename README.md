@@ -254,7 +254,6 @@
       - eamodio.gitlens
       - ms-toolsai.jupyter
       - ms-vsliveshare.vsliveshare
-      - njqdev.vscode-python-typehint
       - EricSia.pythonsnippets3
       - congyiwu.vscode-jupytext
       - streetsidesoftware.code-spell-checker-russian
