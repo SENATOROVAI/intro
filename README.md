@@ -196,7 +196,7 @@
    - ссылка на avito
    - ссылка на work-zilla (опционально)
    - внизу сообщения добавьте ваш @ЛОГИН ТЕЛЕГРАМ
-   - Сообщение отправь сюда [t.me/SENATOROVAI](t.me/SENATOROVAI)
+   - Сообщение отправь сюда [https://t.me/SENATOROVAI](https://t.me/SENATOROVAI)
        
 ---
 
