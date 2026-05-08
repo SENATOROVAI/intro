@@ -333,7 +333,7 @@
  - откройте репу [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/ff126dff-f663-4808-b99d-450493fd326a)
 
 6. **Введите команды в терминал**
-   - Откройте терминал и убедитесь что там написано **Documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV**
+   - Откройте терминал и убедитесь что там написано **Documents/github/Data-Science-For-Beginners-from-scratch-course**
    - [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/c5692ba1-5029-4688-a33b-22220b1cb58a)
    - [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/6145231b-a5b4-488b-967a-5d4ed9b995a5)
    - Затем вставьте 4 команды ниже, в терминал, по очереди, и нажмите каждый раз Enter
