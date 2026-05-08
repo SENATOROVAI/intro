@@ -202,9 +202,11 @@
 
 ### Договор о стажировке в SENATOROVAI
 - Скачайте и ознакомьте с договором о стажировке в SENATOROVAI: 
-    - [договор PDF](https://github.com/user-attachments/files/23699670/_._.pdf)
-    - [договор doc](https://github.com/user-attachments/files/23726151/1.doc)
-    - [договор docx](https://github.com/user-attachments/files/23726152/1.docx)
+    - [договор PDF](https://github.com/user-attachments/files/27521089/default.pdf)
+
+    - [договор doc](https://github.com/user-attachments/files/27521103/default.doc)
+
+    - [договор docx](https://github.com/user-attachments/files/27521108/default.docx)
 
 - Отправьте в [чат](https://t.me/c/1937296927/66128), заполненный договор, укажите дату договора, впишите мои данные, ФИО, [ссылку на мой профиль](https://github.com/ruslansenatorov), дату начала стажировки, с этого числа вы должны будете 2 раза в неделю предоставлять отчёт, ваше ФИО, подпись, ссылка на ваш гитхаб профиль 
 
