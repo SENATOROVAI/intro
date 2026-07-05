@@ -219,7 +219,7 @@
 ---
 
 2. **Cursor и VS CODE**
-   - [пройдите курс ](https://www.udemy.com/course/vibe-coding-cursor-data-science/?referralCode=9434E97B9EF3491967F1)
+   - [Посмотрите курс, задания делать не надо ](https://www.udemy.com/course/vibe-coding-cursor-data-science/?referralCode=9434E97B9EF3491967F1)
    - Скачайте с [Cursor](https://github.com/getcursor/cursor). и [VS code](https://github.com/microsoft/vscode)
    -  [👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/39db71c4-28cc-47d6-bb1b-13809d591cc5) 
    - (установить плагины):
